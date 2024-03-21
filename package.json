@@ -1,6 +1,6 @@
 {
   "name": "mkhan0-simple-calculator-ramzn-night",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "A simple calculato with Typescript ,Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
