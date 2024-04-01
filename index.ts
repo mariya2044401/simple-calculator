@@ -1,4 +1,4 @@
-ik#!/usr/bin/env node
+#!/usr/bin/env node
 
 import inquirer from "inquirer";
 
@@ -35,3 +35,6 @@ else{
   console.log("Please select valid number")
 }
 console.log("The End")
+console.log("The end")
+console.log("The Endend")
+console.log("The Endeend")
